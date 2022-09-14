@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "title": "Asad Photo - Maldives Photographer",
+  "titleTemplate": "Asad Photo - Freelance Photographer from Maldives",
+  "welcomeText": "# Yo, I'm Asad - A Professional Photographer from Maldives Islands. \n\nI﻿'ve developed and developed my Photography skills in the last 12 years. \n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "logo": "/images/uploads/asad-photo-logo-dark.png",
+  "icon": "/images/uploads/logo.svg",
   "loadingColor": "#0b3765",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
-  "seoMetaImage": ""
+  "seoMetaImage": "/images/uploads/pexels-asad-photo-maldives-3293148-1-.jpg"
 }
